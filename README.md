@@ -4,7 +4,7 @@ A simple, fun, and interactive Valentine's webpage where:
 - Clicking "No" causes the button to float away.
 
 ## How to Use
-- [View the Valentine Webpage here](https://vidyen2024.github.io/valentine-webpage/)).
+- [View the Valentine Webpage here](https://vidyen2024.github.io/valentine-webpage/).
 
 ## Features
 - Romantic Valentine's theme.
